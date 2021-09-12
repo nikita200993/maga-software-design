@@ -6,7 +6,7 @@ public final class Circle implements Figure {
 
     public Circle(final double radius) {
         if (radius <= 0) {
-            throw new IllegalArgumentException("Radius must be positive, but was " + radius);
+            throw new IllegalArgumentException("radius must be positive, but was " + radius);
         }
         this.radius = radius;
     }
