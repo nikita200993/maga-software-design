@@ -1,0 +1,1 @@
+package com.nikitaaero.mipt.softwaredesign.figures;
